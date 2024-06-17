@@ -1,4 +1,4 @@
-#  a Cook Finder for all those who love to cook | 
+#  a Cook Finder for all those who love to cook(espcially MoM) | 
 
 ![Demo App](/public/Screenshot_29.png)
 
